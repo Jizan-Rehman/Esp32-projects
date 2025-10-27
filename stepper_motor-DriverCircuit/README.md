@@ -2,7 +2,7 @@
 
 This project demonstrates stepper motor control using an A4988 driver and Esp32 in the Wokwi simulator.
 
-[Wokwi Project Link:](https://wokwi.com/projects/444588401819542529)
+[Project Link](https://wokwi.com/projects/444588401819542529)
 
 ## ⚙️ Components Used
 - ESP32
