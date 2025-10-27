@@ -1,6 +1,6 @@
 # Stepper Motor Driver (Wokwi Simulation)
 
-This project demonstrates stepper motor control using an A4988 driver and Arduino UNO in the Wokwi simulator.
+This project demonstrates stepper motor control using an A4988 driver and Esp32 in the Wokwi simulator.
 
 🔗 **Wokwi Project Link:** https://wokwi.com/projects/444588401819542529
 
